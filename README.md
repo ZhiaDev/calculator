@@ -10,5 +10,5 @@
 <br/>
 
 ## 📱 Screenshot 
-![banner](https://github.com/SharifiDev/bmi-calc/raw/master/banner.png)
+![banner](https://github.com/SharifiDev/Calculator/raw/master/banner.png)
 
