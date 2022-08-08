@@ -3,12 +3,12 @@
 
 <br/>
 
-## 📍 Support
-- 🍎 IOS
-- 🤖 Android
+## Support :
+- IOS
+- Android
 
 <br/>
 
-## 📱 Screenshot 
-![banner](https://github.com/SharifiDev/Calculator/raw/master/banner.png)
+## Screenshot :
+![banner](https://github.com/SharifiDev/calculator/raw/master/banner.png)
 
